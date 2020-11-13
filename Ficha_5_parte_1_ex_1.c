@@ -9,14 +9,15 @@ int numero(){
     return(numero_user);
 }
 
+void imprime(int quantidade){
+    for (int i = 0; i < quantidade; i++){
+            printf("*");   
+        }
+}
+
 int main() {
     
-    numero();
-        
-    for (int i = 0; i < numero_user; i++){
-        printf("*");   
-    }
-    
+    imprime(numero());
     return (0);
-}
+
 
