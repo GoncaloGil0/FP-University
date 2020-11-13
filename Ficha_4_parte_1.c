@@ -18,7 +18,7 @@ int main_ex1() {
     return (0);
 }
 
-int main(){
+int main_ex2(){ // ainda não acabado
     
     char string[10];
     int i, cifra;
