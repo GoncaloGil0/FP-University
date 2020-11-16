@@ -118,7 +118,7 @@ int verificaVitoria(int matriz[3][3], int jogador){ //Parte: 1 Ex: 4
         }
     }
     
-    //verificar diagonais principal 
+    //verificar diagonal principal 
     if (matriz[0][0] == jogador && matriz[1][1] == jogador && matriz[2][2] == jogador ){
         // venceu 
         printf("\n\nVenceu");
