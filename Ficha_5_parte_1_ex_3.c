@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include "My_header.h"
 
+//Tanto a header como o ficheiro .c com as funções encontam-se juntos com o resto dos ficheiros com o nome de:
+// (.c) Ficha_5_parte_1_ex_3.c 
+// (header.h ) Ficha_5_parte_1_ex_3.h
+
 int main() {
     
     int numero_1, numero_2;
