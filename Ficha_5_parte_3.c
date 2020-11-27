@@ -3,6 +3,10 @@
 #include <string.h> // biblioteca para fazer a operação de copia de strings (linha 24 e 46)
 #include "funcoes.h"
 
+//Tanto a header como o ficheiro .c com as funções encontam-se juntos com o resto dos ficheiros com o nome de:
+// (.c) Ficha_5_parte_3.c 
+// (header.h ) Ficha_5_parte_3.h
+
 int main() {
     
     //variaveis 
