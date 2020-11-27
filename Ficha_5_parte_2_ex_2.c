@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include "myIntLib.h"
 
+//Tanto a header como o ficheiro .c com as funções encontam-se juntos com o resto dos ficheiros com o nome de:
+// (.c) Ficha_5_parte_2_ex_2.c 
+// (header.h ) Ficha_5_parte_2_ex_2.h
+
 int main(){
     
     const int numero_alunos = 20;
