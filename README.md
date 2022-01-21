@@ -5,6 +5,8 @@
 ## Descrição
 Resolução de algumas das fichas de trabalho para a disciplina de fundamentos de programação.
 
+Ano lectivo: 2020/2021
+
 ## Clonar o repositorio
 ```` 
 git clone https://github.com/GoncaloGil0/C.git
