@@ -1,4 +1,4 @@
-# Fundamentos de programação
+# FP - Fundamentos de programação
 ![FP](https://img.shields.io/badge/Faculdade-FP-green)
 ![Nota](https://img.shields.io/badge/Nota%20final-15%20valores-green)
 ![GitHub language count](https://img.shields.io/github/languages/count/GoncaloGil0/FichasFP)
