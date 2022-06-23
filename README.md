@@ -10,5 +10,5 @@ Ano lectivo: 2020/2021
 
 ## Clonar o repositorio
 ```` 
-git clone https://github.com/GoncaloGil0/C.git
+git clone https://github.com/GoncaloGil0/FP-University.git
 ````
